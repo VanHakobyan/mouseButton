@@ -1,6 +1,6 @@
 # Crazy Button
 
-<p align="centre">
+<p align="center">
 <img src="https://github.com/VanHakobyan/mouseButton/blob/master/GIF123.gif">
 </p>
 <br>
